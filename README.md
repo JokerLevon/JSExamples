@@ -1,4 +1,0 @@
-# JSExamples
-
-
-JavaScript Variables
